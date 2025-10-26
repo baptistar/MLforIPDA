@@ -1,7 +1,13 @@
 # Machine Learning for Inverse Problems and Data Assimilation
 
-## Tutorials developed by Ricardo Baptista
-## Collaboration with Eviatar Bach, Andrew Stuart, Daniel Sanz-Alonso
+## Authors 
+
+The tutorials are developed by: Ricardo Baptista (University of Toronto)
+Collaborators: Eviatar Bach, Andrew Stuart, Daniel Sanz-Alonso
+
+The tutorial setup and notation closely follows the reference: [arXiv](https://arxiv.org/pdf/2410.10523).
+
+## Software
 
 The code is developed using PyTorch. We include an application to Biochemical Oxygen demand model for inverse problems and an application to Lorenz-96 system for data assimilation.
 
