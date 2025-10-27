@@ -16,6 +16,6 @@ The code is developed using PyTorch. We have the notebooks for the following for
 3. Data Amortization in Inverse Problems
 
 ## Data Assimilation for Learning Filters
-1. Application to 3DVar
+1. Application to Learning the Gain Matrix
 
 
